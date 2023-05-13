@@ -1,0 +1,9 @@
+{
+    "author" : ["Avunia Takiya", "Francinum#0001"],
+    "install_msg" : "Utility cogs for SS13",
+    "name" : "Daedalus-Cogs",
+    "short" : "Daedalus cogs",
+    "requirements": ["mysql-connector-python>=8.0"],
+    "description" : "Recovered Horizon Cogs, and Daedalus Cogs",
+    "tags" : ["Fun", "SS13", "Utility", "Administration"]
+}
